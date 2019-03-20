@@ -4,20 +4,20 @@
 Nextcloud |version| user manual introduction
 ============================================
 
-**Welcome to Nextcloud: A safe home for all your data.**
+**Vítejte v Nextcloudu: Bezpečný domov pro všechny vaše data.**
 
-Nextcloud is open source file sync and share software for everyone from
-individuals operating the free Nextcloud Server in the privacy of their own
-home, to large enterprises and service providers supported by the Nextcloud
-Enterprise Subscription. Nextcloud provides a safe, secure, and compliant
-file synchronization and sharing solution on servers that you control.
+Nextcloud je open source software pro synchronizaci a sdílení souborů, který
+můžou používat všichni od jedinců, kteří provozují Nextcloud server zdarma v
+soukromí u sebe doma, až po velké korporace a poskytovatele služeb, kteří 
+využívají Nextcloud Enterprise předplatné. Nextcloud poskytuje bezpečné, 
+spolehlivé a požadvakům vyhovující řešení pro synchronizaci a sdílení souborů
+na serverech, které máte plně pod svou kontrolou.
 
-You can share one or more files and folders on your computer, and synchronize
-them with your Nextcloud server. Place files in your local shared directories,
-and those files are immediately synchronized to the server and to other devices
-using the Nextcloud Desktop Sync Client, Android app, or iOS app. To
-learn more about the Nextcloud desktop and mobile clients, please refer to
-their respective manuals:
+Můžete sdílet soubory a složky z vašeho počítače a synchronizovat je na 
+Nextcloud server. Uložte své soubry do lokálních nasdílených složek a tyto 
+soubory jsou pomocí Nextcloud Desktop klienta, nebo aplikace pro Android či iOS
+okamžitě synchronizovány na na server a na všechna vaše zařízení. Pokud se chcete
+dozvědět více o desktopové a mobilní aplikaci, přejděte na jednotlivé manuály:
 
 * `Nextcloud Desktop Client`_
 * `Nextcloud Android App`_
